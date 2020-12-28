@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/manageRanks"
+        android:title="Manage Ranks"
+        android:visible="false"/>
+
+    <item android:id="@+id/manageCompanys"
+        android:title="Manage Companies"
+        android:visible="false"/>
+    <item android:id="@+id/manageUsers"
+        android:title="Manage Users"
+        android:visible="false"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/itemLogout"
+        android:title="Logout" />
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="userLevel">
+        <item>GUEST</item>
+        <item>NCO/JCO</item>
+        <item>QUARANTINE_OC</item>
+        <item>ADJT</item>
+        <item>COMDT</item>
+        <item>ADMINISTRATOR</item>
+    </array>
+</resources>

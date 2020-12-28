@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:defaultValue="250"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:key="capacity"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Overall Capacity of the Quarantine Center, this value is used to determine Occupancy and Availability"
+        android:title="Total Capacity of Quarantine Center"
+        app:useSimpleSummaryProvider="true" />
+    <EditTextPreference
+        android:defaultValue="14"
+        android:icon="@android:drawable/ic_menu_day"
+        android:key="duration"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="No of Days from Date of Entry till when the Person is under Quarantine"
+        android:title="Default Quarantine Duration(in Days)"
+        app:useSimpleSummaryProvider="true" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="switch_preference_1"
+        android:summary='If Enabled, the App will set the duration of Quarantine as per the Setting in "Default Quarantine Period" from the day the entry is made'
+        android:title="Autofill Quarantine Duration from Day of Entry"
+        app:icon="?attr/actionModeSelectAllDrawable" />
+</PreferenceScreen>

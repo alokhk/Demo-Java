@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right"
+    android:gravity="right">
+
+    <ImageButton
+        android:id="@+id/minusButton"
+        android:layout_width="40dp"
+        android:layout_height="35dp"
+        android:layout_gravity="right"
+        android:background="#283D4D"
+        app:srcCompat="@drawable/minus" />
+
+    <TextView
+        android:id="@+id/peopleCount"
+        android:layout_width="36dp"
+        android:layout_height="30dp"
+        android:layout_gravity="right"
+        android:text="1"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/plusButton"
+        android:layout_width="40dp"
+        android:layout_height="35dp"
+        android:layout_gravity="right"
+        android:background="#283D4D"
+        app:srcCompat="@drawable/plus" />
+
+</LinearLayout>
