@@ -1,4 +1,4 @@
-# QuarantineManagement
+# Quarantine Management
 
 Background of the Problem:
 - Army establishments have large number of people residing on campus - service personnel, support personnel and families
