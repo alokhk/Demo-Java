@@ -1,5 +1,9 @@
 # Quarantine Management
 
+
+<img src="https://user-images.githubusercontent.com/17163397/147668712-283022e6-fa18-4802-aace-17e08df1c149.jpg" width="23%"></img> <img src="https://user-images.githubusercontent.com/17163397/147668728-09817ea3-2df9-4c57-954b-15ac513c957f.jpg" width="23%"></img> 
+
+
 Background of the Problem:
 - Army establishments have large number of people residing on campus - service personnel, support personnel and families
 - During the peak of the pandemic, institutional quarantine of 14/21 days is mandatory before personnel returning from leave, outstation duty, any off base activity are allowed to mingle with the general population residing in the cantonement
