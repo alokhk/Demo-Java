@@ -17,5 +17,3 @@ The app replicates the process of returning manpower regestering themselves at t
 It also provides a dashboard for the command channel to keep abreast of the situation as it emerges.
 
 The app makes use of a Firebase Realtime Database to achieve the objectives
-
-<img src="https://user-images.githubusercontent.com/17163397/147664597-da2074fb-8d80-4aeb-972c-5e7da0db63b4.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/17163397/147664608-dc156c9a-6e15-42c4-a2c0-4dbad7b37ff1.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/17163397/147664613-179d5046-59ea-494d-bce6-1391e0e99dd8.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/17163397/147664617-9e56c828-8b33-453d-930e-160e0417031c.jpg" width="45%"></img> 
